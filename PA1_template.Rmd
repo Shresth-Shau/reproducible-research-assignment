@@ -1,0 +1,13 @@
+---
+title: "Reproducible Research Assignment"
+author: "Shresth Shaurya"
+output: html_document
+---
+
+## Loading and preprocessing the data
+## Loading and preprocessing the data
+
+```{r}
+data <- read.csv("activity.csv")
+head(data)
+```
